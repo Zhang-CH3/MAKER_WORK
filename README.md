@@ -28,3 +28,11 @@ The renderings are below.
 ********************
 
 ABOUT WORK 3
+
+With MQTT, we can control the player in Minecraft by shaking our heads!
+
+When we shake our heads, MQTT can detect the changes of our head and then go forward/back/left/right.
+
+********************
+
+ABOUT WORK 4
