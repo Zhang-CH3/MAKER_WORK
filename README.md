@@ -22,3 +22,9 @@ ABOUT WORK 2
 The renderings are below.
 
 <img src="https://user-images.githubusercontent.com/72453752/209893549-c96e7143-2d74-46c2-87f8-7c40c9a4ded6.jpg" width="480px">
+
+▲ The product
+
+********************
+
+ABOUT WORK 3
