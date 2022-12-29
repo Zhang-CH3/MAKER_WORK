@@ -40,3 +40,31 @@ ABOUT WORK 4
 We can control the player in Minecraft to move freely with the package 'Mediapipe'.
 
 The actions of our fingers will be catched and read by the program, and then send to Minecraft.
+
+********************
+
+ABOUT WORK 5
+
+When we turn our heads, the lights on computer can be charged by us.
+
+Isn't it cool?
+
+********************
+
+ABOUT WORK 6
+
+We can use Minecraft and MCPI to build a house.
+
+<img src="https://user-images.githubusercontent.com/72453752/209934691-c65c9ea1-0619-4349-9f71-84f36e8b9672.png" width="480px">
+
+<img src="https://user-images.githubusercontent.com/72453752/209934716-55597e09-fc5c-4a07-a660-37361feea1c3.png" width="480px">
+
+▲ The house and the command are above.
+
+********************
+
+ABOUT WORK 7
+
+How about owning a robot which can chat with you and teach you how to cook?
+
+Sounds amazing! Chat with her and ask her about some recipes of several dishes!
