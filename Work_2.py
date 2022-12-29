@@ -42,7 +42,7 @@ while(cap.isOpened()):
         out.write(frame)
         cv2.imshow('frame',frame)
         if cv2.waitKey(25) & 0xFF == ord('q'):
-            break
+            break 
     else:
         break
 
