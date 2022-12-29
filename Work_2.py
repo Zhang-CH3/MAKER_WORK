@@ -1,10 +1,10 @@
 from turtle import shape
 import numpy as np
 import cv2
-up = cv2.imread("up.jpg")
-down = cv2.imread("mdown.jpg")
-left = cv2.imread("left.jpg")
-right = cv2.imread("right.jpg")
+up = cv2.imread("up.png")
+down = cv2.imread("down.png")
+left = cv2.imread("left.png")
+right = cv2.imread("right.png")
 cap = cv2.VideoCapture("video2.mp4")
 find = cv2.VideoWriter_fourcc(*'XVID')
 out = cv2.VideoWriter('output.avi',find,20.0,[2240,1400])
