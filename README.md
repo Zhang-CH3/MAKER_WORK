@@ -36,3 +36,7 @@ When we shake our heads, MQTT can detect the changes of our head and then go for
 ********************
 
 ABOUT WORK 4
+
+We can control the player in Minecraft to move freely with the package 'Mediapipe'.
+
+The actions of our fingers will be catched and read by the program, and then send to Minecraft.
